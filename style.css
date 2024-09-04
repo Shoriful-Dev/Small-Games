@@ -1,0 +1,58 @@
+.windowOne {
+ align-content: center;
+margin: 0 auto;
+ text-align: center;
+ width: 600px;
+ height: 300px;
+ background-color: #dddd;
+ color: white;
+}
+.headingOne {
+color: chocolate;
+}
+.headingtwo {
+color: chocolate;
+display: none;
+}
+.inputOne {
+width: 90%;
+padding: 20px 20px;
+border-radius: 15px;
+border: none;
+}
+.inputtwo {
+width: 90%;
+padding: 20px 20px;
+border-radius: 15px;
+border: none;
+display: none;
+}
+.buttonOne {
+margin-top: 20px;
+padding: 10px 20px;
+border-radius: 15px;
+border: none;
+background-color: burlywood;
+cursor: pointer;
+}
+.buttontwo {
+margin-top: 20px;
+padding: 10px 20px;
+border-radius: 15px;
+border: none;
+background-color: burlywood;
+cursor: pointer;
+display: none;
+}
+.error {
+ color: #B22222;
+}
+.error2 {
+ color: #B22222;
+ display: none;
+}
+.chance {
+ padding-bottom: 15px;
+ font-size: 25px;
+ color: #B22222;
+}
